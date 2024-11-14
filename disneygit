@@ -172,4 +172,4 @@ DOMAIN-SUFFIX,watchespn.com
 USER-AGENT,Disney+*
 PROCESS-NAME,com.disney.datg.videoplatforms.android.abc
 PROCESS-NAME,com.disney.disneyplus
-DOMAIN,disney.api.edge.bamgrid.com
+DOMAIN-SUFFIX,disney.api.edge.bamgrid.com
